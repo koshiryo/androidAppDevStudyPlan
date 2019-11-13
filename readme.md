@@ -5,7 +5,7 @@ I have about 2 years web system developement experience, now it's time to have a
 Here is a study plan about Android app develope, I will update the progress often.
 
 ## What to learn?
-###1. Java 
+### 1. Java 
 Basic grammar, object-oriented, IO stream, multithreading and Socket programming, database, network transport and data parsing, etc.
 
 ### 2. Android Application Development
