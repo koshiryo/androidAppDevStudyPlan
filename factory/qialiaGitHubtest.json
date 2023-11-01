@@ -1,0 +1,9 @@
+{
+	"name": "qialiaGitHubtest",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0a915d45-587e-4893-8a75-014a748bb6a1",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
